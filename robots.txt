@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imebaono.github.io/AMV/sitemap_index.txt
+Sitemap: https://imebaono.github.io/FJK/sitemap_index.txt
+Sitemap: https://imebaono.github.io/SsY/sitemap_index.txt
+Sitemap: https://imebaono.github.io/iMr/sitemap_index.txt
